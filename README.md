@@ -3,7 +3,7 @@
 An Obligatory free running game made using Phaser Framework as a part of my College Project. 
 This is officially my first game made using Phaser. It was a great learning experience to work on phaser because i got to learn Javascript.
 <br>
-<strong>Can play it on any browser which support JavaScript. Click on the<a href="https://sidf3ar.github.io/Lava-Run/"> Play it Now..!</a> to checkout the game.</strong>
+<strong>Can play it on any browser which support JavaScript. Click on the<a href="https://sidf3ar.github.io/Lava-Run-Game/"> Play it Now..!</a> to checkout the game.</strong>
 <br>
 <br>
 <strong>## ScreenShot</strong>
