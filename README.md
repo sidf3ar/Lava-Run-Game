@@ -16,4 +16,4 @@ I ported this Web App to a Native Android App using Apache Cordova Framework.
 <Strong>## Credits</Strong>
 This game was made using original assets and generated music by Oyvind Torvund. 
 
-Feel free to fork this game, use code and assets. Just do not be evil. 
+Feel free to fork this game, use code and assets. Just do not be evil. :smile:
