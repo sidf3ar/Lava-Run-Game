@@ -7,6 +7,7 @@ This is officially my first game made using Phaser. It was a great learning expe
 <br>
 <strong>Can play it on any browser which support JavaScript. Click on the<a href="https://sidf3ar.github.io/Lava-Run/"> Play it Now..!</a> to checkout the game.</strong>
 <br>
+<br>
 <strong>## ScreenShot</strong>
 <br>
 <a href="https://ibb.co/gixVh7"><img src="https://preview.ibb.co/eANwN7/lava_1.png" height="500" width="300" alt="lava_1" border="0"></a>
