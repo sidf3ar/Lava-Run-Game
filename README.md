@@ -14,7 +14,11 @@ This is officially my first game made using Phaser. It was a great learning expe
 I ported this Web App to a Native Android App using Apache Cordova Framework.
 <strong>Link to Lava Run's android APK https://drive.google.com/open?id=1_gNE678PsK6_ijk2AeoHx87DJJNr1Tgt</strong>
 
+<Strong>## Prerequisite<br>
+HTML, CSS, JavaScript and knowledge about Phaser Framework.</strong>
+
+
 <Strong>## Credits</Strong>
-This game was made using original assets and generated music by Oyvind Torvund. 
+This game was made using my own genuine assets and generated music by Oyvind Torvund. 
 
 Feel free to fork this game, use code and assets. Just do not be evil. :smile:
