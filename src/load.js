@@ -1,7 +1,7 @@
 /*jshint undef: false, unused:false*/
 var loadState = {
     preload: function() {
-        var loadingLabel = game.add.text(game.world.centerX, 150, 'Loading, please wait a second :)', {
+        var loadingLabel = game.add.text(game.world.centerX, 150, 'Loading, please wait for a few second :)', {
             fontSize: 96,
             fill: '#ffffff'
         });
